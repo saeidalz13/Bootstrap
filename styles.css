@@ -1,0 +1,5 @@
+[class*='col'] {
+    background-color: rgb(173, 210, 127);
+    padding: 4px;
+    color: #363636;
+}
